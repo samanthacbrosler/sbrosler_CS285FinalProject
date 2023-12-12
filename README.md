@@ -20,5 +20,5 @@
 ## Requesting data
 - I did not include the feedback_data.pkl and alphabet_with_fingerflex_data.pkl datasets in my submission because they are very large (1.68 and 3.42 GB respectively)
   - feedback_data.pkl is necessary for the Analysis 4 figures in `plots.ipynb`
-  - alphabet_with_fingerflex_data.pkl is necessary to rerun `main.ipynb
+  - alphabet_with_fingerflex_data.pkl is necessary to rerun `main.ipynb'
 - Please contact me for data requests (broslers@berkeley.edu)
