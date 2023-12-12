@@ -16,3 +16,7 @@
 - `plotting.py`: Contains functions for generating all of my plots.
 - `preprocessing.py`: Includes functions for further processing the ECoG data.
 - `training.py`: Contains functions for training models.
+
+## Requesting data
+- I did not include the feedback_data.pkl and alphabet_with_fingerflex_data.pkl datasets in my submission because they are very large (1.68 and 3.42 GB respectively)
+- Please contact me for data requests
