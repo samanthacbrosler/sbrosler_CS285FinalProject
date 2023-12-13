@@ -3,10 +3,10 @@
 ## Instructions
 
 ### Generating Final Plots
-- `plots.ipynb` generates the final plots included in my final project paper from saved data in the 'data' folder
+- Run `plots.ipynb` to generate the final plots included in my final project paper. Make sure the data folder is on the path.
 
 ### Complete Analysis
-- `main.ipynb` executes all four analyses discussed in my final project. 
+- Run `main.ipynb` to execute all four analyses included in my final project. 
   - **Note:** `main.ipynb` sets `test_splits = 3` for computational speed. 
   - The final plots in the paper were averaged across at least 10 test splits.
 
@@ -17,8 +17,9 @@
 - `preprocessing.py`: Includes functions for further processing the ECoG data.
 - `training.py`: Contains functions for training models.
 
-## Requesting data
-- I did not include the feedback_data.pkl and alphabet_with_fingerflex_data.pkl datasets in my submission because they are very large (1.68 and 3.42 GB respectively)
-  - feedback_data.pkl is necessary for the Analysis 4 figures in `plots.ipynb`
-  - alphabet_with_fingerflex_data.pkl is necessary to rerun `main.ipynb'
-- Please contact me for data requests (broslers@berkeley.edu)
+## Requesting Data
+
+- The datasets `feedback_data.pkl` and `alphabet_with_fingerflex_data.pkl` are not included in the submission due to their large sizes (1.68 and 3.42 GB, respectively).
+- To rerun all the analyses in `main.ipynb`, these datasets are necessary.
+- However, they are not needed to regenerate the plots in `plots.ipynb`.
+- For data requests, please contact me at [broslers@berkeley.edu](mailto:broslers@berkeley.edu).
