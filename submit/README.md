@@ -6,8 +6,8 @@
 - Run `plots.ipynb` to generate the final plots included in my final project paper. Make sure the data folder is on the path.
 
 ### Complete Analysis
-- Run `main.ipynb` to execute all four analyses included in my final project. 
-  - **Note:** `main.ipynb` sets `test_splits = 3` for computational speed. 
+- Run `analyses.ipynb` to execute all four analyses included in my final project. 
+  - **Note:** `analyses.ipynb` sets `test_splits = 3` for computational speed. 
   - The final plots in the paper were averaged across at least 10 test splits.
 
 ## Info about .py Files
